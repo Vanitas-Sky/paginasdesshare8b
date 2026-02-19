@@ -1,12 +1,16 @@
 # paginasdesshare8b
 8B- Repositorio para demostración de desarrollo colaborativo '-'
 
-# integrantes 
+# Integrantes 
 
-* lopez hernandez sergio armando 
-* gomez vazquez jose alberto 
-* rodriguez gomez abner ismael 
-* mendez hernandez paulina 
+* Lopez Hernandez Sergio Armando 
+* Gomez Vazquez Jose Alberto 
+* Rodriguez Gomez Abner Ismael 
+* Mendez Hernandez Paulina 
 
-# universidad tecnologia de la selva 
-ocosingo, chiapas, 2026 
+# Universidad Tecnologia de la Selva 
+Ocosingo, Chiapas, 2026
+
+# Vanitas team.
+
+# Resultados
