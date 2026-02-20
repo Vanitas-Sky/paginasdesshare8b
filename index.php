@@ -14,19 +14,18 @@
     <img src="imagen.png" width="100" height="140" alt="">
     <h2>scrum team</h2>
     <ul>
-
-        <li>
-<a href="./paulina.docx">Descargar cv paulina</a>
-        </li>
-        <li>
-<a href="./abner.docx">Descargar cv abner</a>
-        </li>
-        <li>
-<a href="./alberto.docx">Descargar cv alberto</a>
-        </li>
-        <li>
-<a href="./armando.docx">Descargar cv Armando</a>
-        </li>
+    <li>
+  <a href="./paulina.docx" download>Descargar CV Paulina</a>
+</li>
+<li>
+  <a href="./abner.docx" download>Descargar CV Abner</a>
+</li>
+<li>
+  <a href="./alberto.docx" download>Descargar CV Alberto</a>
+</li>
+<li>
+  <a href="./armando.docx" download>Descargar CV Armando</a>
+</li>
 </ul>
 </body>
 </html>
